@@ -2,3 +2,9 @@ a=2
 b=3
 sum=(a+b)
 print("sum",sum)
+################################
+#sub#
+a=2
+b=3
+sum=(a-b)
+print("sub",sum)
